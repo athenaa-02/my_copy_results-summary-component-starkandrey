@@ -1,0 +1,11 @@
+form {
+
+    input {
+        width: 200px;
+        height: 40px;
+        border-radius: 8px;
+        border: 1px solid rgb(168, 96, 96);
+        outline: none;
+        padding-left: 10px;
+    }
+}
